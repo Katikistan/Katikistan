@@ -1,4 +1,4 @@
-## Hi there 👋
+# 
 
 <!--
 **Katikistan/Katikistan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,7 +11,18 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 
 -->
-[Fake news classification - Data science project](https://github.com/Katikistan/FakeNewsProject)
+## About me
+Oliver, Developer @ Zangenberg Analytics
+## Interests: 
+- **Low-Level Programming**
+- **Networking**
+- **Operating Systems**
+- **Cybersecurity**
+- **Malware analysis**
+- **Machine Architecture**
+- **Data Science**
+## Projects and relevant repositories
+- [Fake news classification - Data science project](https://github.com/Katikistan/FakeNewsProject): A classifier to classify news articles as fake news, made for the course GDS at KU. 
+## 📫 How to reach me:
