@@ -22,7 +22,3 @@ Oliver, Developer @ Zangenberg Analytics
 - **Cybersecurity**
 - **Malware analysis**
 - **Machine Architecture**
-- **Data Science**
-## Projects and relevant repositories
-- [Fake news classification - Data science project](https://github.com/Katikistan/FakeNewsProject): A classifier to classify news articles as fake news, made for the course GDS at KU. 
-## 📫 How to reach me:
