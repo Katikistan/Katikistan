@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 
 -->
 ## About me
-Oliver, Developer @ Zangenberg Analytics
 ## Interests: 
 - **Low-Level Programming**
 - **Networking**
